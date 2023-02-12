@@ -1,6 +1,6 @@
 class BankAccount {
         constructor (accountNumber, owner) {
-            this.accountNumber = accountNumber
+            this.accountNumber = accountNumber   
             this.owner = owner
             this.transactions = []
         }
